@@ -8,7 +8,9 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Hi My name is Chutipong Roobklom.</p>
+<p>
+Hi, I am Chutipong Rooklom (M). A full-stack web application developer. And this website is pretty much everything of my works and knowledge that I have experienced for a couple years.
+</p>
 
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 <h4>Online Channel</h4>
