@@ -12,10 +12,30 @@ comments: false
 Hi, I am Chutipong Rooklom (M). A full-stack web application developer. And this website is pretty much everything of my works and knowledge that I have experienced for a couple years.
 </p>
 
-<!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
-<h4>Online Channel</h4>
+<h5>I have been working on many projects in many of languages or frameworks.</h5>
+<ul>
+  <li>C#</li>
+  <li>ASP.NET</li>
+  <li>ASP.NET MVC</li>
+  <li>Microsoft SQL Server</li>
+  <li>EXT.JS</li>
+  <li>javascript</li>
+  <li>php</li>
+  <li>mysql</li>
+  <li>Angular</li>
+  <li>React</li>
+  <li>Mongo DB</li>
+  <li>etc.</li>
+</ul>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>So I will share what I have been working and what I have learning for you all.</p>
+<!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
+<h4>Stay tuned on my online channels</h4>
+
+<p><i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UCVt8NI7q72TQL2eg02BwFOw" target="_blank">Youtube</a></p>
+<p><i class="fab fa-facebook"></i> Facebook</p>
+<p><i class="fab fa-twitter"></i> Twitter</p>
+
 </div>
 
 <div class="col-md-4">
