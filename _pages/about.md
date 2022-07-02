@@ -32,11 +32,11 @@ Hi, I am Chutipong Rooklom (M). A full-stack web application developer. And this
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p> -->
 <h4>Stay tuned on my online channels</h4>
 
-<p><i class="fab fa-youtube"></i><a href="https://www.youtube.com/channel/UCVt8NI7q72TQL2eg02BwFOw" target="_blank">Youtube</a></p>
-<p><i class="fab fa-facebook"></i><a href="https://www.facebook.com/khunemz" target="_blank">Facebook</a></p>
+<p><i class="fab fa-youtube"></i><a href="https://www.youtube.com/channel/UCVt8NI7q72TQL2eg02BwFOw" target="_blank">  Youtube</a></p>
+<p><i class="fab fa-facebook"></i><a href="https://www.facebook.com/khunemz" target="_blank">  Facebook</a></p>
 <!-- https://twitter.com/m_chutipong -->
 <p><i class="fab fa-twitter"></i>
-<a href="https://twitter.com/m_chutipong" target="_blank">Twitter</a></p>
+<a href="https://twitter.com/m_chutipong" target="_blank">  Twitter</a></p>
 
 </div>
 
