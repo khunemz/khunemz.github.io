@@ -1,13 +1,13 @@
 # Site
 name: "khunemz"
 title: "CHUTIPONG ROOBKLOM"
-description: "Hi, I am Chutipong Rooklom (M). A full-stack web application developer."
+description: "Hi, I am Chutipong Rooklom (M). A full-stack web application developer. And this website is pretty much everything of my works and knowledge that I have experienced for a couple years."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'khunemz-github-io'
-mailchimp-list: ''
+mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
 
