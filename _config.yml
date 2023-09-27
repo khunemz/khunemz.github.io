@@ -17,15 +17,15 @@ url: "https://www.facebook.com/khunemz"
 
 # Authors
 authors:
-  author0:
+  m_chutipong:
     name: chutipong.r
     avatar: 'assets/images/myAvatar.png'
     display_name: khunemz
     gravatar: 8117cccc37871d26746dac2ee3c5433e
     email: khunemz@gmail.com
     web: https://khunemz.github.io
-    twitter: https://twitter.com/khun_emz
-    description: "Author of khunemz.github.io, CEO CMR group"
+    twitter: https://twitter.com/m_chutipong
+    description: "Founder of khunemz.github.io"
   john:
     name: John
     display_name: John    
@@ -33,7 +33,7 @@ authors:
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: khunemz@gmail.com
     web: https://khunemz.github.io
-    twitter: https://twitter.com/khun_emz
+    twitter: https://twitter.com/m_chutipong
     description: "John Doe"
 
 # Plugins
@@ -67,7 +67,7 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
+adsense: "enable"
 adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 

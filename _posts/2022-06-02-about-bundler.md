@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Bundler"
-author: author0
+author: m_chutipong
 categories: [ Jekyll ]
 image: assets/images/2.jpg
 rating: 3

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Press and education"
-author: author0
+author: m_chutipong
 categories: [ Jekyll, tutorial ]
 image: assets/images/7.jpg
 ---
