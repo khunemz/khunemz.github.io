@@ -11,7 +11,7 @@ mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 # Page
-url: "https://www.facebook.com/khunemz"
+url: "https://khunemz.github.io"
 # Authors
 authors:
   m_chutipong:
@@ -22,7 +22,8 @@ authors:
     email: khunemz@gmail.com
     web: https://khunemz.github.io
     twitter: https://twitter.com/m_chutipong
-    description: "Founder of khunemz.github.io"
+    facebook: https://facebook.com/khunemz
+    description: "Founder of khunemz.github.io | Bangkoksoft"
   john:
     name: John
     display_name: John    
