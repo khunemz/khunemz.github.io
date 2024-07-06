@@ -2,7 +2,7 @@
 layout: post
 title:  "Setup Visual studio code PHP Debug Mac OS Silicon 2024"
 author: m_chutipong
-categories: [ php ]
+categories: [ php, laravel, xdebug, mac, apple-silicon ]
 image: assets/images/posts/20240706/vscode.png
 ---
 ## Prerequisition:
