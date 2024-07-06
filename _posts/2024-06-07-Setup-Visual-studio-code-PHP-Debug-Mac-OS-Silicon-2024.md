@@ -53,7 +53,7 @@ brew services restart php
 ```
 5) The visual studio code, you must install the `PHP Debug` extension:
 
-![extension]({{ site.baseurl }}/assets/images/20240706/vscode.png)
+![extension]({{ site.baseurl }}/assets/images/posts/20240706/vscode.png)
 
    
 6) Update `launch.json` file by adding the configuration like this:
@@ -72,6 +72,6 @@ brew services restart php
 
 7) Try run debugging, go to menu **run > start debugging** and try adding break point somewhere in the code that you app can reach that line:
 
-![extension]({{ site.baseurl }}/assets/images/20240706/debuggin.png)
+![debuggin]({{ site.baseurl }}/assets/images/posts/20240706/debuggin.png)
 
 Enjoy building app with PHP ❤️
